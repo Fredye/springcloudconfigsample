@@ -1,4 +1,0 @@
-spring:
-  datasource:
-    username:loanadmin
-    password:'{cipher}aebc84930f13ce8fb5d597d298b3e1fc5ba5a40f3925a84cc31bdca9ec579880'

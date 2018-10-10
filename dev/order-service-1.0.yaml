@@ -1,5 +1,5 @@
 spring:
   datasource:
-    username:loanadmin
-    password:'{cipher}43ebbce4b3e29479d4f8b65b1f59f3297f326f8d198416dd08b2b3afa558a532'
+    username: loanadmin
+    password: '{cipher}43ebbce4b3e29479d4f8b65b1f59f3297f326f8d198416dd08b2b3afa558a532'
     
